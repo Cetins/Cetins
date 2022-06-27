@@ -4,7 +4,7 @@
 
 :bride_with_veil::man_in_tuxedo: Married to a handsome :barber:barber 
 
-:cat::cat: Adopted two predators
+:cat2::cat2: Adopted two predators
 
 :scotland: Lives in Glasgow
 
@@ -45,5 +45,5 @@ Last but not least I've carved this one rule onto my programming; Never ever rep
 
 * C 
 * Python (Django, Flask)
-* Javascript 
+* Javascript (:arrows_counterclockwise: In Progress)
 * Java (:clapper: Coming Soon :grin:)
