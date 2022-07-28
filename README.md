@@ -6,7 +6,7 @@
 
 ### Currently studying Software Development in CodeClan
 
-### CS50 Introduction to Computer Science (2020)
+### CS50 Introduction to Computer Science (Completed in 2020)
 
 ### 	:hammer_and_wrench: 
 
