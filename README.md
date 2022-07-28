@@ -14,5 +14,5 @@
 * HTML
 * CSS
 * Python (Django, Flask)
-* Javascript (React)  :arrows_counterclockwise: In Progress
+* Javascript (React)
 * Java  :clapper: Coming Soon :grin:
