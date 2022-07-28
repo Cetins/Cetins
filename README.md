@@ -1,12 +1,10 @@
-# Hello, World 👋
+## Hello, World
 
-:scotland: Lives in Scotland
+:scotland: Scotland
 
-:bug: Loves debugging
+#### Currently studying Software Development in CodeClan
 
-### Currently studying Software Development in CodeClan
-
-### CS50 Introduction to Computer Science (Completed in 2020)
+#### CS50 Introduction to Computer Science (Completed in 2020)
 
 ### 	:hammer_and_wrench: 
 
@@ -15,4 +13,7 @@
 * CSS
 * Python (Django, Flask)
 * Javascript (React)
-* Java  :clapper: Coming Soon :grin:
+* Java  :clapper: Coming Soon
+
+##### LinkedIn  =>  linkedin.com/in/cetins
+##### Blog      =>  medium.com/@cetins
