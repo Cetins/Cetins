@@ -4,7 +4,7 @@
 
 :bug: Loves debugging
 
-### :seedling: Currently studying Professional Software Development in CodeClan
+### :seedling: Currently studying Software Development in CodeClan
 
 ### :woman_student: CS50 Introduction to Computer Science (2020)
 
