@@ -9,11 +9,11 @@
 ### 	:hammer_and_wrench: 
 
 * C 
+* Python (Django, Flask)
+* Javascript (React, Node.js)
+* Java (Spring Boot)
 * HTML
 * CSS
-* Python (Django, Flask)
-* Javascript (React)
-* Java  :clapper: Coming Soon
 
 ##### LinkedIn  =>  linkedin.com/in/cetins
 ##### Blog      =>  medium.com/@cetins
