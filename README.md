@@ -2,15 +2,17 @@
 
 :scotland: Scotland
 
-#### Currently studying Software Development in CodeClan
+#### Software Development, CodeClan
 
-#### CS50 Introduction to Computer Science (Completed in 2020)
+#### CS50 Introduction to Computer Science, Harvard EDX
 
 ### 	:hammer_and_wrench: 
 
 * C 
 * Python (Django, Flask)
 * Javascript (React, Node.js)
+* SQL, PostgreSQL
+* MongoDB
 * Java (Spring Boot)
 * HTML
 * CSS
