@@ -2,9 +2,10 @@
 
 :scotland: Scotland
 
-#### Software Development, CodeClan
+### Education
 
-#### CS50 Introduction to Computer Science, Harvard EDX
+* Software Development, CodeClan (September 2022)
+* CS50 Introduction to Computer Science, Harvard EDX (December 2020)
 
 ### 	:hammer_and_wrench: 
 
