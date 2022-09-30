@@ -2,6 +2,8 @@
 
 :scotland: Scotland
 
+##### CV  => https://drive.google.com/file/d/14jwpmrBEkSYbGo7irzb0z3HKb-tJI2bs/view?usp=sharing
+
 ### Education
 
 * Software Development, CodeClan (September 2022)
