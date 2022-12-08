@@ -7,21 +7,20 @@ IMPORTANT UPDATE: Unfortunately I've got caught to this new flu and couldn't cod
 
 :scotland: Scotland
 
-##### CV  => https://drive.google.com/file/d/14jwpmrBEkSYbGo7irzb0z3HKb-tJI2bs/view?usp=sharing
 
 ### Education
 
 * Software Development, CodeClan (September 2022)
-* CS50 Introduction to Computer Science, Harvard EDX (December 2020)
+* CS50 Introduction to Computer Science, Harvard EDX (January 2021)
 
 ### 	:hammer_and_wrench: 
 
 * C 
 * Python (Django, Flask)
-* Javascript (React, Node.js)
+* Javascript (React, Node.js, Express)
 * SQL, PostgreSQL
 * MongoDB
-* Java (Spring Boot)
+* Java (Spring)
 * HTML
 * CSS
 
