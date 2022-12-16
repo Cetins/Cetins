@@ -2,6 +2,8 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Cetins&show_icons=true)
 
+### PS => jsx file extensions don't count in Javascript stats.
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cetins&theme=blue-green)
 
 :scotland: Scotland
