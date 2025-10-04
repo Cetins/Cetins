@@ -1,0 +1,6 @@
+# Force JSX/TSX to be recognized as JavaScript/TypeScript
+*.jsx linguist-language=JavaScript
+*.tsx linguist-language=TypeScript
+
+# Optional: force Python files (already detected correctly)
+*.py linguist-language=Python
