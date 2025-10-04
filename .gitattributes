@@ -1,6 +1,26 @@
-# Force JSX/TSX to be recognized as JavaScript/TypeScript
-*.jsx linguist-language=JavaScript
-*.tsx linguist-language=TypeScript
+# === Force JavaScript / JSX / TypeScript detection ===
+*.js     linguist-language=JavaScript
+*.jsx    linguist-language=JavaScript
+*.ts     linguist-language=TypeScript
+*.tsx    linguist-language=TypeScript
 
-# Optional: force Python files (already detected correctly)
-*.py linguist-language=Python
+# === Force Python detection ===
+*.py     linguist-language=Python
+
+# === Frontend files ===
+*.html   linguist-language=HTML
+*.css    linguist-language=CSS
+*.scss   linguist-language=CSS
+*.json   linguist-language=JSON
+*.md     linguist-language=Markdown
+
+# === Ignore build / generated files ===
+node_modules/** linguist-vendored
+dist/**         linguist-vendored
+build/**        linguist-vendored
+__pycache__/**  linguist-vendored
+*.pyc           linguist-vendored
+*.log           linguist-vendored
+
+# === Optional: force shell scripts ===
+*.sh     linguist-language=Shell
