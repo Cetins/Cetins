@@ -1,26 +1,14 @@
-# === Force JavaScript / JSX / TypeScript detection ===
+# Force main source files
 *.js     linguist-language=JavaScript
 *.jsx    linguist-language=JavaScript
 *.ts     linguist-language=TypeScript
 *.tsx    linguist-language=TypeScript
-
-# === Force Python detection ===
 *.py     linguist-language=Python
 
-# === Frontend files ===
-*.html   linguist-language=HTML
-*.css    linguist-language=CSS
-*.scss   linguist-language=CSS
-*.json   linguist-language=JSON
-*.md     linguist-language=Markdown
-
-# === Ignore build / generated files ===
+# Ignore everything else (so build / extra files don't skew stats)
 node_modules/** linguist-vendored
 dist/**         linguist-vendored
 build/**        linguist-vendored
 __pycache__/**  linguist-vendored
 *.pyc           linguist-vendored
 *.log           linguist-vendored
-
-# === Optional: force shell scripts ===
-*.sh     linguist-language=Shell
