@@ -1,4 +1,4 @@
-# 👩‍💻 Sezen Çetin  
+# 👩‍💻 Sezen Cetin  
 **Junior Software Developer | Glasgow, Scotland**
 
 ---
