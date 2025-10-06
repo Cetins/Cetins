@@ -48,7 +48,6 @@ I love building clean, user-friendly web applications and continuously improving
 
 ### 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cetins&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cetins&show_icons=true&theme=tokyonight)
 
 ---
