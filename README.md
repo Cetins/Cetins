@@ -4,7 +4,7 @@
 ---
 
 ### 🌍 About Me  
-I’m a passionate and detail-oriented **Junior Software Developer** based in Scotland, with a strong foundation in both **frontend** and **backend** development.  
+I’m a passionate and detail-oriented **Junior Software Developer** based in Glasgow, with a strong foundation in both **frontend** and **backend** development.  
 I love building clean, user-friendly web applications and continuously improving my skills through real-world projects and learning.  
 
 ---
